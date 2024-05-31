@@ -37,5 +37,5 @@ const printName=function(){
     console.log(lastname);
 }
 printName();
-
+console.log(output);
 
